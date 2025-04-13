@@ -17,8 +17,8 @@ function App() {
         <blockquote>
           <p>
             I've been searching for high-quality abstract images for my design
-            projects, and I'm thrilled to have found this platform. The variety
-            and depth of creativity are astounding!
+            projects, and also I'm thrilled to have found this platform. The
+            variety and depth of creativity are astounding!
           </p>
         </blockquote>
       </figure>
